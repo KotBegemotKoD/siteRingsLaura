@@ -601,7 +601,7 @@ body {
 
 .reactions__content {
    display: flex;
-   flex: 1 1 60%;
+   flex: 1 1 auto;
    padding: 0px 45px 0px 90px;
    overflow: hidden;
    overflow-y: hidden;
