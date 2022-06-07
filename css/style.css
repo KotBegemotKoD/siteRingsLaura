@@ -604,6 +604,7 @@ body {
    padding: 0px 45px 0px 90px;
    overflow: hidden;
    overflow-y: hidden;
+   white-space : nowrap;
 }
 
 @media (max-width:762px) {
