@@ -605,7 +605,7 @@ body {
    padding: 0px 45px 0px 90px;
    overflow: hidden;
    overflow-y: hidden;
-
+   max-width: 667px;
 }
 
 @media (max-width:762px) {
