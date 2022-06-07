@@ -591,8 +591,6 @@ body {
 .reactions__body {
    display: flex;
    align-items: flex-start;
-   overflow: hidden;
-   overflow-y: hidden;
    margin: 0px 0px 97px 0px;
 
 }
@@ -604,7 +602,8 @@ body {
    display: flex;
    flex: 1 1 auto;
    padding: 0px 45px 0px 90px;
-
+   overflow: hidden;
+   overflow-y: hidden;
 }
 
 @media (max-width:762px) {
