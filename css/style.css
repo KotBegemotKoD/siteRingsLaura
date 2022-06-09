@@ -87,7 +87,9 @@ h6 {
    font-size: inherit;
    font-weight: 400;
 }
-
+html {
+scroll-behavior: smooth;
+}
 body {
    height: 100%;
    line-height: 1;
